@@ -1,16 +1,15 @@
 {
     "data": {
-        "countries": [
-            {
-                "confirmed": 12445,
+        "countries": [{
+                "confirmed": 12685,
                 "country_code": "AF01",
                 "country_name_ar": "الجزائر",
                 "country_name_en": "Algeria",
-                "deaths": 878,
-                "recovered": 8920
+                "deaths": 885,
+                "recovered": 9066
             },
             {
-                "confirmed": 1162,
+                "confirmed": 1164,
                 "country_code": "AF02",
                 "country_name_ar": "تونس",
                 "country_name_en": "Tunisia",
