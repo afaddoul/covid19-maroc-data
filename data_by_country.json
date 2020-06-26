@@ -2,44 +2,44 @@
     "data": {
         "countries": [
             {
-                "country_name_en": "Algeria",
+                "confirmed": 12445,
                 "country_code": "AF01",
                 "country_name_ar": "الجزائر",
-                "confirmed": 12445,
-                "recovered": 8920,
-                "deaths": 878
+                "country_name_en": "Algeria",
+                "deaths": 878,
+                "recovered": 8920
             },
             {
-                "country_name_en": "Tunisia",
+                "confirmed": 1162,
                 "country_code": "AF02",
                 "country_name_ar": "تونس",
-                "confirmed": 1162,
-                "recovered": 1023,
-                "deaths": 50
+                "country_name_en": "Tunisia",
+                "deaths": 50,
+                "recovered": 1023
             },
             {
-                "country_name_en": "Egypt",
+                "confirmed": 61130,
                 "country_code": "AF03",
                 "country_name_ar": "مصر",
-                "confirmed": 59561,
-                "recovered": 15935,
-                "deaths": 2450
+                "country_name_en": "Egypt",
+                "deaths": 2533,
+                "recovered": 16338
             },
             {
-                "country_name_en": "Mauritania",
+                "confirmed": 3739,
                 "country_code": "AF04",
                 "country_name_ar": "موريتانيا",
-                "confirmed": 3519,
-                "recovered": 1074,
-                "deaths": 116
+                "country_name_en": "Mauritania",
+                "deaths": 119,
+                "recovered": 1225
             },
             {
-                "country_name_en": "Libya",
+                "confirmed": 698,
                 "country_code": "AF05",
                 "country_name_ar": "ليبيا",
-                "confirmed": 670,
-                "recovered": 138,
-                "deaths": 18
+                "country_name_en": "Libya",
+                "deaths": 18,
+                "recovered": 140
             }
         ]
     }
