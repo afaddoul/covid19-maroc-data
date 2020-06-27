@@ -1,22 +1,22 @@
 {
     "data": {
         "country": [{
-            "excluded": 608802,
-            "confirmed": 11633,
-            "recovered": 8656,
-            "deaths": 218
+            "excluded": 621617,
+            "confirmed": 11877,
+            "recovered": 8723,
+            "deaths": 220
         }],
         "regions": [{
                 "region_name_en": "Béni Mellal-Khénifra",
                 "region_code": "MA05",
                 "region_name_ar": "بني ملال - خنيفرة",
-                "confirmed": 148
+                "confirmed": 150
             },
             {
                 "region_name_en": "Casablanca-Settat",
                 "region_code": "MA06",
                 "region_name_ar": "الدار البيضاء - سطات",
-                "confirmed": 3265
+                "confirmed": 3340
             },
             {
                 "region_name_en": "Drâa-Tafilalet",
@@ -28,31 +28,31 @@
                 "region_name_en": "Dakhla-Oued Ed-Dahab",
                 "region_code": "MA12",
                 "region_name_ar": "الداخلة - وادي الذهب",
-                "confirmed": 9
+                "confirmed": 11
             },
             {
                 "region_name_en": "Fès-Meknès",
                 "region_code": "MA03",
                 "region_name_ar": "فاس - مكناس",
-                "confirmed": 1173
+                "confirmed": 1196
             },
             {
                 "region_name_en": "Guelmim-Oued Noun",
                 "region_code": "MA10",
                 "region_name_ar": "كلميم - واد نون",
-                "confirmed": 70
+                "confirmed": 71
             },
             {
                 "region_name_en": "Laâyoune-Sakia El Hamra",
                 "region_code": "MA11",
                 "region_name_ar": "العيون - الساقية الحمراء",
-                "confirmed": 285
+                "confirmed": 347
             },
             {
                 "region_name_en": "Marrakech-Safi",
                 "region_code": "MA07",
                 "region_name_ar": "مراكش - أسفي",
-                "confirmed": 1862
+                "confirmed": 1884
             },
             {
                 "region_name_en": "l'Oriental",
@@ -64,7 +64,7 @@
                 "region_name_en": "Rabat-Salé-Kénitra",
                 "region_code": "MA04",
                 "region_name_ar": "الرباط - سلا - القنيطرة",
-                "confirmed": 1917
+                "confirmed": 1922
             },
             {
                 "region_name_en": "Souss-Massa",
@@ -76,9 +76,9 @@
                 "region_name_en": "Tanger-Tétouan-Al Hoceïma",
                 "region_code": "MA01",
                 "region_name_ar": "طنجة - تطوان - الحسيمة",
-                "confirmed": 2026
+                "confirmed": 2078
             }
         ]
     },
-    "last_updated": "18:00 26-06-2020"
+    "last_updated": "20:00 27-06-2020"
 }
