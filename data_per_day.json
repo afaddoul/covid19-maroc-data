@@ -553,6 +553,11 @@
             "recovered": 67,
             "deaths": 2,
             "pub_date": "6/26/20"
+        },
+        {
+            "recovered": 7,
+            "deaths": 0,
+            "pub_date": "6/27/20"
         }
     ]
 }
