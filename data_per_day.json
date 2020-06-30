@@ -560,9 +560,14 @@
             "pub_date": "6/28/20"
         },
         {
-            "recovered": 50,
-            "deaths": 3,
+            "recovered": 93,
+            "deaths": 4,
             "pub_date": "6/29/20"
+        },
+        {
+            "recovered": 87,
+            "deaths": 3,
+            "pub_date": "6/30/20"
         }
     ]
 }
