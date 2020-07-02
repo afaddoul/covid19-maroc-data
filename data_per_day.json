@@ -575,8 +575,8 @@
             "pub_date": "7/01/20"
         },
         {
-            "recovered": 26,
-            "deaths": 0,
+            "recovered": 64,
+            "deaths": 1,
             "pub_date": "7/02/20"
         }
     ]
