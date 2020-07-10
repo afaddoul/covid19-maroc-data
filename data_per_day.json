@@ -605,9 +605,14 @@
             "pub_date": "7/07/20"
         },
         {
-            "recovered": 209,
-            "deaths": 0,
+            "recovered": 677,
+            "deaths": 2,
             "pub_date": "7/08/20"
+        },
+        {
+            "recovered": 131,
+            "deaths": 0,
+            "pub_date": "7/09/20"
         }
     ]
 }
