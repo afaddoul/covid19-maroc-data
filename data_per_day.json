@@ -663,6 +663,11 @@
             "recovered": 301,
             "deaths": 4,
             "pub_date": "7/19/20"
+        },
+        {
+            "recovered": 211,
+            "deaths": 3,
+            "pub_date": "7/20/20"
         }
     ]
 }
