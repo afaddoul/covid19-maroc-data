@@ -668,6 +668,11 @@
             "recovered": 211,
             "deaths": 3,
             "pub_date": "7/20/20"
+        },
+        {
+            "recovered": 257,
+            "deaths": 4,
+            "pub_date": "7/21/20"
         }
     ]
 }

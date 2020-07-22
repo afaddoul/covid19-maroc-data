@@ -1,10 +1,10 @@
 {
     "data": {
         "country": [{
-            "excluded": 1010211,
-            "confirmed": 17562,
-            "recovered": 15132,
-            "deaths": 276
+            "excluded": 1029064,
+            "confirmed": 17742,
+            "recovered": 15389,
+            "deaths": 280
         }],
         "regions": [{
                 "region_name_en": "Béni Mellal-Khénifra",
@@ -80,5 +80,5 @@
             }
         ]
     },
-    "last_updated": "18:00 20-07-2020"
+    "last_updated": "18:00 21-07-2020"
 }
