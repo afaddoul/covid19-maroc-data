@@ -1,8 +1,8 @@
 {
     "data": {
         "Total": [{
-            "excluded": 1126895,
-            "confirmed": 20278,
+            "excluded": 1147226,
+            "confirmed": 20887,
             "max_daily": 55
         }],
         "Tested": [{
@@ -820,6 +820,12 @@
                 "excluded": 20327,
                 "confirmed": 633,
                 "total": 20960
+            },
+            {
+                "date": "7/27/2020",
+                "excluded": 20331,
+                "confirmed": 609,
+                "total": 20940
             }
         ]
     }
