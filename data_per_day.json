@@ -813,6 +813,11 @@
             "recovered": 1061,
             "deaths": 33,
             "pub_date": "8/18/20"
+        },
+        {
+            "recovered": 574,
+            "deaths": 29,
+            "pub_date": "8/19/20"
         }
     ]
 }
