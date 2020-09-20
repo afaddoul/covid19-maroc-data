@@ -963,6 +963,11 @@
             "recovered": 1760,
             "deaths": 41,
             "pub_date": "9/18/20"
+        },
+        {
+            "recovered": 2318,
+            "deaths": 40,
+            "pub_date": "9/19/20"
         }
     ]
 }
