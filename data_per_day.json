@@ -978,6 +978,16 @@
             "recovered": 3426,
             "deaths": 25,
             "pub_date": "9/21/20"
+        },
+        {
+            "recovered": 1725,
+            "deaths": 34,
+            "pub_date": "9/22/20"
+        },
+        {
+            "recovered": 2361,
+            "deaths": 29,
+            "pub_date": "9/23/20"
         }
     ]
 }
