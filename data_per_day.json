@@ -1003,6 +1003,16 @@
             "recovered": 2218,
             "deaths": 43,
             "pub_date": "9/26/20"
+        },
+        {
+            "recovered": 1441,
+            "deaths": 28,
+            "pub_date": "9/27/20"
+        },
+        {
+            "recovered": 1877,
+            "deaths": 44,
+            "pub_date": "9/28/20"
         }
     ]
 }
