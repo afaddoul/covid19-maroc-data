@@ -1028,6 +1028,16 @@
             "recovered": 1421,
             "deaths": 35,
             "pub_date": "10/01/20"
+        },
+        {
+            "recovered": 1908,
+            "deaths": 34,
+            "pub_date": "10/02/20"
+        },
+        {
+            "recovered": 2643,
+            "deaths": 30,
+            "pub_date": "10/03/20"
         }
     ]
 }
