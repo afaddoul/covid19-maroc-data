@@ -1053,6 +1053,11 @@
             "recovered": 2018,
             "deaths": 41,
             "pub_date": "10/06/20"
+        },
+        {
+            "recovered": 2788,
+            "deaths": 29,
+            "pub_date": "10/07/20"
         }
     ]
 }
