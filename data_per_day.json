@@ -1062,7 +1062,22 @@
         {
             "recovered": 2133,
             "deaths": 47,
-            "pub_date": "10/07/20"
+            "pub_date": "10/08/20"
+        },
+        {
+            "recovered": 2747,
+            "deaths": 44,
+            "pub_date": "10/09/20"
+        },
+        {
+            "recovered": 1832,
+            "deaths": 42,
+            "pub_date": "10/10/20"
+        },
+        {
+            "recovered": 2553,
+            "deaths": 33,
+            "pub_date": "10/11/20"
         }
     ]
 }
