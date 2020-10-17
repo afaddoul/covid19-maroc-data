@@ -1078,6 +1078,36 @@
             "recovered": 2553,
             "deaths": 33,
             "pub_date": "10/11/20"
+        },
+        {
+            "recovered": 2091,
+            "deaths": 31,
+            "pub_date": "10/12/20"
+        },
+        {
+            "recovered": 1964,
+            "deaths": 49,
+            "pub_date": "10/13/20"
+        },
+        {
+            "recovered": 2497,
+            "deaths": 41,
+            "pub_date": "10/14/20"
+        },
+        {
+            "recovered": 2077,
+            "deaths": 46,
+            "pub_date": "10/15/20"
+        },
+        {
+            "recovered": 2953,
+            "deaths": 46,
+            "pub_date": "10/16/20"
+        },
+        {
+            "recovered": 2392,
+            "deaths": 60,
+            "pub_date": "10/17/20"
         }
     ]
 }
