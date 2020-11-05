@@ -413,6 +413,31 @@
             "recovered": 3350,
             "deaths": 70,
             "pub_date": "10/31/20"
+        },
+        {
+            "recovered": 3038,
+            "deaths": 67,
+            "pub_date": "11/01/20"
+        },
+        {
+            "recovered": 2788,
+            "deaths": 64,
+            "pub_date": "11/02/20"
+        },
+        {
+            "recovered": 2808,
+            "deaths": 74,
+            "pub_date": "11/03/20"
+        },
+        {
+            "recovered": 3977,
+            "deaths": 82,
+            "pub_date": "11/04/20"
+        },
+        {
+            "recovered": 3329,
+            "deaths": 77,
+            "pub_date": "11/05/20"
         }
     ]
 }
