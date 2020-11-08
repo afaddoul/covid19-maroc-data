@@ -438,6 +438,16 @@
             "recovered": 3329,
             "deaths": 77,
             "pub_date": "11/05/20"
+        },
+        {
+            "recovered": 3739,
+            "deaths": 68,
+            "pub_date": "11/06/20"
+        },
+        {
+            "recovered": 4602,
+            "deaths": 70,
+            "pub_date": "11/07/20"
         }
     ]
 }
