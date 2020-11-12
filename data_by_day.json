@@ -1,8 +1,8 @@
 {
     "data": {
         "Total": [{
-            "excluded": 3219259,
-            "confirmed": 252185,
+            "excluded": 3299871,
+            "confirmed": 276821,
             "max_daily": 55
         }],
         "Tested": [{
@@ -520,6 +520,36 @@
                 "excluded": 14157,
                 "confirmed": 5836,
                 "total": 19993
+            },
+            {
+                "date": "11/08/2020",
+                "excluded": 15274,
+                "confirmed": 4596,
+                "total": 19870
+            },
+            {
+                "date": "11/09/2020",
+                "excluded": 15933,
+                "confirmed": 3170,
+                "total": 19103
+            },
+            {
+                "date": "11/10/2020",
+                "excluded": 15769,
+                "confirmed": 5214,
+                "total": 20983
+            },
+            {
+                "date": "11/11/2020",
+                "excluded": 16266,
+                "confirmed": 5461,
+                "total": 21727
+            },
+            {
+                "date": "11/12/2020",
+                "excluded": 17370,
+                "confirmed": 6195,
+                "total": 23565
             }
         ]
     }

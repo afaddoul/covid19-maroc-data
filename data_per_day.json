@@ -448,6 +448,31 @@
             "recovered": 4602,
             "deaths": 70,
             "pub_date": "11/07/20"
+        },
+        {
+            "recovered": 4245,
+            "deaths": 75,
+            "pub_date": "11/08/20"
+        },
+        {
+            "recovered": 3104,
+            "deaths": 84,
+            "pub_date": "11/09/20"
+        },
+        {
+            "recovered": 3946,
+            "deaths": 69,
+            "pub_date": "11/10/20"
+        },
+        {
+            "recovered": 4892,
+            "deaths": 81,
+            "pub_date": "11/11/20"
+        },
+        {
+            "recovered": 4297,
+            "deaths": 64,
+            "pub_date": "11/12/20"
         }
     ]
 }
