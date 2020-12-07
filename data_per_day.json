@@ -543,6 +543,56 @@
             "recovered": 5312,
             "deaths": 80,
             "pub_date": "11/26/20"
+        },
+        {
+            "recovered": 4228,
+            "deaths": 70,
+            "pub_date": "11/27/20"
+        },
+        {
+            "recovered": 4538,
+            "deaths": 50,
+            "pub_date": "11/28/20"
+        },
+        {
+            "recovered": 3740,
+            "deaths": 50,
+            "pub_date": "11/29/20"
+        },
+        {
+            "recovered": 2977,
+            "deaths": 57,
+            "pub_date": "11/30/20"
+        },
+        {
+            "recovered": 4902,
+            "deaths": 69,
+            "pub_date": "12/01/20"
+        },
+        {
+            "recovered": 4044,
+            "deaths": 70,
+            "pub_date": "12/02/20"
+        },
+        {
+            "recovered": 4750,
+            "deaths": 78,
+            "pub_date": "12/03/20"
+        },
+        {
+            "recovered": 4827,
+            "deaths": 73,
+            "pub_date": "12/04/20"
+        },
+        {
+            "recovered": 3879,
+            "deaths": 48,
+            "pub_date": "12/05/20"
+        },
+        {
+            "recovered": 3608,
+            "deaths": 61,
+            "pub_date": "12/06/20"
         }
     ]
 }

@@ -1,8 +1,8 @@
 {
     "data": {
         "Total": [{
-            "excluded": 3535246,
-            "confirmed": 340684,
+            "excluded": 3694794,
+            "confirmed": 379657,
             "max_daily": 55
         }],
         "Tested": [{
@@ -634,6 +634,66 @@
                 "excluded": 17250,
                 "confirmed": 4178,
                 "total": 21428
+            },
+            {
+                "date": "11/27/2020",
+                "excluded": 17425,
+                "confirmed": 4592,
+                "total": 22017
+            },
+            {
+                "date": "11/28/2020",
+                "excluded": 17811,
+                "confirmed": 4412,
+                "total": 22223
+            },
+            {
+                "date": "11/29/2020",
+                "excluded": 15065,
+                "confirmed": 4115,
+                "total": 19180
+            },
+            {
+                "date": "11/30/2020",
+                "excluded": 12017,
+                "confirmed": 2533,
+                "total": 14550
+            },
+            {
+                "date": "12/01/2020",
+                "excluded": 17377,
+                "confirmed": 3508,
+                "total": 20885
+            },
+            {
+                "date": "12/02/2020",
+                "excluded": 16754,
+                "confirmed": 4346,
+                "total": 21100
+            },
+            {
+                "date": "12/03/2020",
+                "excluded": 16672,
+                "confirmed": 4434,
+                "total": 21106
+            },
+            {
+                "date": "12/04/2020",
+                "excluded": 17614,
+                "confirmed": 3996,
+                "total": 21610
+            },
+            {
+                "date": "12/05/2020",
+                "excluded": 16032,
+                "confirmed": 4118,
+                "total": 20150
+            },
+            {
+                "date": "12/06/2020",
+                "excluded": 12781,
+                "confirmed": 2919,
+                "total": 15700
             }
         ]
     }
