@@ -1,8 +1,8 @@
 {
     "data": {
         "Total": [{
-            "excluded": 3694794,
-            "confirmed": 379657,
+            "excluded": 3795151,
+            "confirmed": 399609,
             "max_daily": 55
         }],
         "Tested": [{
@@ -694,6 +694,48 @@
                 "excluded": 12781,
                 "confirmed": 2919,
                 "total": 15700
+            },
+            {
+                "date": "12/07/2020",
+                "excluded": 10454,
+                "confirmed": 1531,
+                "total": 11985
+            },
+            {
+                "date": "12/08/2020",
+                "excluded": 14146,
+                "confirmed": 2900,
+                "total": 17046
+            },
+            {
+                "date": "12/09/2020",
+                "excluded": 15085,
+                "confirmed": 4096,
+                "total": 19181
+            },
+            {
+                "date": "12/10/2020",
+                "excluded": 15832,
+                "confirmed": 3345,
+                "total": 19177
+            },
+            {
+                "date": "12/11/2020",
+                "excluded": 16192,
+                "confirmed": 3035,
+                "total": 19227
+            },
+            {
+                "date": "12/12/2020",
+                "excluded": 15517,
+                "confirmed": 3033,
+                "total": 18550
+            },
+            {
+                "date": "12/13/2020",
+                "excluded": 13129,
+                "confirmed": 2012,
+                "total": 15141
             }
         ]
     }
