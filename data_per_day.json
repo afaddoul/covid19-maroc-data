@@ -678,6 +678,26 @@
             "recovered": 2970,
             "deaths": 56,
             "pub_date": "12/23/20"
+        },
+        {
+            "recovered": 2833,
+            "deaths": 44,
+            "pub_date": "12/24/20"
+        },
+        {
+            "recovered": 3192,
+            "deaths": 40,
+            "pub_date": "12/25/20"
+        },
+        {
+            "recovered": 4175,
+            "deaths": 34,
+            "pub_date": "12/26/20"
+        },
+        {
+            "recovered": 1965,
+            "deaths": 36,
+            "pub_date": "12/27/20"
         }
     ]
 }
