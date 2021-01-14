@@ -1,8 +1,8 @@
 {
     "data": {
         "Total": [{
-            "excluded": 3962751,
-            "confirmed": 432079,
+            "excluded": 4649394,
+            "confirmed": 455055,
             "max_daily": 55
         }],
         "Tested": [{
@@ -820,6 +820,108 @@
                 "excluded": 8892,
                 "confirmed": 1517,
                 "total": 10409
+            },
+            {
+                "date": "12/28/2020",
+                "excluded": 8628,
+                "confirmed": 950,
+                "total": 9578
+            },
+            {
+                "date": "12/29/2020",
+                "excluded": 15306,
+                "confirmed": 2160,
+                "total": 17466
+            },
+            {
+                "date": "12/30/2020",
+                "excluded": 15663,
+                "confirmed": 2143,
+                "total": 17806
+            },
+            {
+                "date": "12/31/2020",
+                "excluded": 15808,
+                "confirmed": 1861,
+                "total": 17669
+            },
+            {
+                "date": "01/01/2021",
+                "excluded": 14578,
+                "confirmed": 1777,
+                "total": 16355
+            },
+            {
+                "date": "01/02/2021",
+                "excluded": 12109,
+                "confirmed": 1171,
+                "total": 13280
+            },
+            {
+                "date": "01/03/2021",
+                "excluded": 11445,
+                "confirmed": 1005,
+                "total": 12450
+            },
+            {
+                "date": "01/04/2021",
+                "excluded": 7202,
+                "confirmed": 656,
+                "total": 7858
+            },
+            {
+                "date": "01/05/2021",
+                "excluded": 15494,
+                "confirmed": 1637,
+                "total": 17131
+            },
+            {
+                "date": "01/06/2021",
+                "excluded": 15311,
+                "confirmed": 1642,
+                "total": 16953
+            },
+            {
+                "date": "01/07/2021",
+                "excluded": 16781,
+                "confirmed": 1597,
+                "total": 18378
+            },
+            {
+                "date": "01/08/2021",
+                "excluded": 17544,
+                "confirmed": 1543,
+                "total": 19087
+            },
+            {
+                "date": "01/09/2021",
+                "excluded": 21574,
+                "confirmed": 1416,
+                "total": 22990
+            },
+            {
+                "date": "01/10/2021",
+                "excluded": 15268,
+                "confirmed": 895,
+                "total": 16163
+            },
+            {
+                "date": "01/11/2021",
+                "excluded": 6883,
+                "confirmed": 456,
+                "total": 7339
+            },
+            {
+                "date": "01/12/2021",
+                "excluded": 10354,
+                "confirmed": 801,
+                "total": 11155
+            },
+            {
+                "date": "01/13/2021",
+                "excluded": 18017,
+                "confirmed": 1266,
+                "total": 19283
             }
         ]
     }
